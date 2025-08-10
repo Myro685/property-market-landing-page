@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+    --color-darkGreen: #1c3017;
+    --color-pink: #fd2c6e;
+    --color-lightGray: #f6f6f6;
+}

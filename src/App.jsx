@@ -1,5 +1,5 @@
 function App() {
-  return <div className="underline bg-red-500">aaaa</div>;
+  return <div className="underline bg">aaaa</div>;
 }
 
 export default App;
